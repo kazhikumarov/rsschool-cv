@@ -17,3 +17,8 @@
 ### **Education:** 
  * "Almaty Politechnical colledge" with high degree.
  * "Technico-Economical Academy of Cinema and Television"
+ * [HTML Academy](https://htmlacademy.ru/profile/id1190587/achievements)
+### **Language skills:**
+ * **Russian** *free speech*
+ * **Kazakh** *native*
+ * **English** *pre-intermediate*
